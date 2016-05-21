@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "806842707448",
+    "project_id": "unified-academy-125509"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806842707448:android:621aa9eb9e4eedfa",
+        "android_client_info": {
+          "package_name": "dk.cbs.kl.CBSMercury"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806842707448-entoefgnatf2a5k3iu1nsa3mpkv36j88.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "dk.cbs.kl.CBSMercury",
+            "certificate_hash": "78CC590C806220AE935CA5E6402F354280B7356D"
+          }
+        },
+        {
+          "client_id": "806842707448-tnho462vk235c04sq8vsbsr9ptktcba8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5X4TII8HfSMYPR1ApyCcG8v2qoQLaFRs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
